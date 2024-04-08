@@ -2,12 +2,12 @@ body {
   margin: 0;
 }
 header {
-  background-color: #373738;
+  background-color: #f1b150;
   padding: 15px;
 }
 header ul {
   float: right;
-  color: white;
+  color: black;
 }
 header li {
   display: inline-block;
@@ -35,9 +35,9 @@ button {
   border-radius: 4px;
 }
 footer {
-  background-color: #373738;
+  background-color: #f1b150;
   padding: 5px;
-  color: white;
+  color: black;
 }
 footer ul {
   list-style: none;
