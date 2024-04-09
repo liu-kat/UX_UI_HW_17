@@ -8,7 +8,10 @@ header {
 header ul {
   float: right;
   color: black;
+  width: 50%;
+  margin-left: auto;
 }
+
 header li {
   display: inline-block;
   padding: 0px 5px;
@@ -18,8 +21,12 @@ header p {
 }
 .heroImg {
   background-color: #ebebeb;
-  padding: 100px 15px;
+  padding: 100px 25px;
+  height: 600px;
+  width: 500px;
+  margin: 0 auto;
 }
+
 .content {
   max-width: 300px;
   margin: 0 auto;
@@ -35,10 +42,11 @@ button {
   border-radius: 4px;
 }
 footer {
-  background-color: #f1b150;
+  background-color: #373738;
   padding: 5px;
-  color: black;
+  color: white;
 }
+
 footer ul {
   list-style: none;
   padding-left: 5px;
